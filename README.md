@@ -1,0 +1,1 @@
+This organization contains automatically forked repositories from vsts extensions that I want to onboard at clients VSTS environment. These forks are only used for me to get an idea about how mature, well maintained and secure the extensions are. The forks are not used for any other purpose.
